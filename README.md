@@ -1,2 +1,4 @@
-# Data_Analysis
-Developed a Customer Review Analytics Dashboard in Microsoft Excel to transform raw customer feedback into meaningful business insights. The project highlights sentiment distribution, common issues, and recommended actions through interactive visualizations and KPI cards.
+Zomato Customer Review Analytics Dashboard using Microsoft Excel
+Objective
+
+To analyze customer reviews and transform raw feedback into actionable business insights using Microsoft Excel. This dashboard helps identify customer sentiment, common issue categories, recommended actions, and responsible departments through KPI cards, Pivot Tables, and Pivot Charts, enabling data-driven decision-making to improve customer satisfacti
